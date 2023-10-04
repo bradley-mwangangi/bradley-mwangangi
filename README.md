@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**bradley-mwangangi/bradley-mwangangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, World! Bradley here!
 
-Here are some ideas to get you started:
+I'm a backend developer with experience in Java - Spring Boot, passionate about creating innovative and efficient solutions that deliver the best possible user experience.  
+I'm currently a Software Engineering student at ALX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Expertise
+
+- Full-stack development
+- Frontend development with HTML, CSS, and JavaScript
+- Backend development with Java Spring Boot
+- Database design and management with MySQL and PostgreSQL
+- RESTful API design and implementation
+- Git version control
