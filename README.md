@@ -6,9 +6,7 @@ I'm currently a Software Engineering student at ALX.
 
 ## Skills and Expertise
 
-- Full-stack development
-- Frontend development with HTML, CSS, and JavaScript
-- Backend development with Java Spring Boot
-- Database design and management with MySQL and PostgreSQL
-- RESTful API design and implementation
+- RESTful API design and implementation with Java Spring Boot
+- Frontend development with Angular
+- Database design and management
 - Git version control
