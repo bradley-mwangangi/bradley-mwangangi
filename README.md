@@ -7,6 +7,6 @@ I'm currently a Software Engineering student at ALX.
 ## Skills and Expertise
 
 - RESTful API design and implementation with Java Spring Boot
-- Frontend development with Angular
+- Frontend development with Angular and React
 - Database design and management
 - Git version control
